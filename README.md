@@ -1,5 +1,7 @@
 # Movie-Recommendation-Engine
 
+By: Mohammed Rizwan Rawani and Nitesh Bagmar
+
 Instructions and important points.
 1. The folder 'Source Code' contains the various programs and functions implemented. It also has a folder ‘data’, which contains the required data files (dataset).
 2. The source of data is http://www.grouplens.org/node/73 (100k data set)
